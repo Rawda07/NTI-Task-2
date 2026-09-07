@@ -1,4 +1,3 @@
-````markdown
 # 🍰 Family Bakery Website
 
 ## 📌 About the Project
@@ -36,7 +35,6 @@ Family-Bakery/
 ├── index.html
 │
 └── README.md
-````
 
 ## 🎨 Website Design
 
